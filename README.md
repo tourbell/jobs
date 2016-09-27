@@ -2,7 +2,7 @@
 
 여행 서비스 개발 회사인 (주)인큐피아에서 초기 서비스 개발에 참여하실 개발자를 구합니다.
 
-현재 인큐피아에는 0명의 Frontend Engineer 와 2명의 Back-end Engineer, 2명의 Mobile Application Engineer, 1명의 잡부가 함께 일하고 있습니다. 
+현재 인큐피아에는 2명의 Backend Engineer, 2명의 Mobile Application Engineer, 1명의 잡부가 함께 일하고 있습니다. 
 
 
 ### 인큐피아 기술 스택
@@ -26,7 +26,7 @@
 ## 채용 분야
 
 
-### Django 개발자 (신입/경력)
+### Python/Django Developer (신입/경력)
 
 - 채용인원 : n <= 2
 - 지원자격 : 웹 개발 1년 이상 경험자
@@ -54,7 +54,7 @@
 
 ## 지원 방법 및 채용 과정
 
-- 다음 퀴즈를 풀어서 dev@inqpia.com 으로 이력서와 함께 보내주세요. 
+- 다음 퀴즈를 풀어서 yjkim@inqpia.com 으로 이력서와 함께 보내주세요. 
   - [Pre Interview Test](QUIZ.md)
 
 
