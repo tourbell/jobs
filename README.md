@@ -48,7 +48,7 @@
 
 ## 지원 방법 및 채용 과정
 
-- 다음 퀴즈를 풀어서 yjkim@inqpia.com 으로 이력서와 함께 보내주세요. 
+- 다음 퀴즈를 풀어서 yjkim@silenceholdings.com 으로 이력서와 함께 보내주세요. 
   - [Pre Interview Test](QUIZ.md)
 
 
