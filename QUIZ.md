@@ -13,7 +13,7 @@ Question:
 - Let us know if there’re certain requirements to run your code.
 - Usually applicants take about 10 - 30 minutes to finish the task, but sometimes a day or two.
  
-Please send us your code and resume to yjkim@inqpia.com .
+Please send us your code and resume to jpark@tourbell.co.kr .
  
 If you have any question, just drop me an email.
 
