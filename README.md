@@ -13,6 +13,7 @@
 - Spring/Java
 - Android/Java
 - iOS/Swift
+- Angular/rxjs
 - Bootstrap
 - MariaDB
 - MongoDB
