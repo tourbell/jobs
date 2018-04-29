@@ -4,7 +4,7 @@ This is a pre-Interview coding test. You do not need to be perfect, this test is
  
 Question: 
  
- 	Fetch a RSS for "서울 중구 북창동" and populate the first weather forecast element in a single string. (Hint:  wfKor)
+ 	Fetch a RSS for "서울 중구 소공동" and populate the first weather forecast element in a single string. (Hint:  wfKor)
  
 	http://www.kma.go.kr/weather/lifenindustry/sevice_rss.jsp
  
