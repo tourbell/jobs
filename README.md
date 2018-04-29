@@ -25,24 +25,24 @@
 ## 채용 분야
 
 
-### Frontend Engineer (경력)
+### Frontend Engineer (신입/경력)
 
 - 채용인원 : 정규직 0명
-- 지원자격 : 웹 개발 3년 이상 경험자
+- 지원자격 : jQuery, AngularJS, ionic Framework 중 한가지 이상 사용 가능자 
 - 담당업무 : 웹 개발
 
 
-### Python/Django Developer (경력)
+### Python/Django Developer (신입/경력)
 
 - 채용인원 : 정규직 0명
-- 지원자격 : 웹 개발 1년 이상 경험자
+- 지원자격 : Django Framework 사용 가능자
 - 담당업무 : 웹 개발
 
 
-### Java/Spring Developer (경력)
+### Java/Spring Developer (신입/경력)
 
 - 채용인원 : 정규직 0명
-- 지원자격 : 웹 개발 3년 이상 경험자
+- 지원자격 : Spring Framework 사용 가능자
 - 담당업무 : 항공 예약 시스템 개발
 
 
